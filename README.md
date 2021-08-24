@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Deep Learning on Python (Pytorch). <br/>
-🔭 Visit my workspace >> [(click here!)](https://naayeong-kim.github.io/)
+🌱  I’m currently learning Deep Learning on Python (Pytorch). <br/>
+🔭  Visit my workspace >> [(click here!)](https://naayeong-kim.github.io/)
 
 
 <!--
