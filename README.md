@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱  I’m currently learning Deep Learning on Python (Pytorch). <br/>
+🌱  I’m currently learning Deep Learning on Python environment. <br/>
 🔭  Visit my E-portforlio >> [(click here!)](https://naayeong-kim.github.io/)
 
 
