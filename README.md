@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱  I’m currently learning Deep Learning on Python environment. <br/>
-🔭  Visit my E-portforlio >> [(click here!)](https://naayeong-kim.github.io/)
+🌱  I’m currently learning Math & Tech based on Artificial Intelligence. <br/>
+🔭  Visit my E-portforlio page >> [(click here!)](https://naayeong-kim.github.io/)
 
 
 <!--
