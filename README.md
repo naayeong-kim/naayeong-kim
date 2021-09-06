@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱  I’m currently learning Math & Tech based on Artificial Intelligence. <br/>
-🔭  Visit my E-portforlio page >> [(click here!)](https://naayeong-kim.github.io/)
+🌱 &nbsp;&nbsp;I’m currently learning Math & Tech based on Artificial Intelligence. <br/>
+🔭 &nbsp;&nbsp;Visit my E-portforlio page >> [(click here!)](https://naayeong-kim.github.io/)
 
 
 <!--
