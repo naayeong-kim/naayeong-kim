@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌱 &nbsp;&nbsp;I’m currently learning Math & Tech based on Artificial Intelligence. <br/>
-🔭 &nbsp;&nbsp;Visit my E-portforlio page >> [(click here!)](https://naayeong-kim.github.io/)<br/><br/>
+📫 &nbsp;&nbsp;How to reach me: click [here!](mailto:orezan@naver.com)<br/><br/>
+
 
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
